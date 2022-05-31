@@ -1,2 +1,2 @@
 # Industrielle
-codesysfiler 
+codesysfiler for øvinger i mappe innlevering industrielle styresystemer
